@@ -1,0 +1,4 @@
+baseURL = "http://ibara.club/"
+languageCode = "fr-fr"
+title = "DJ Ibara"
+theme = "hugo-hero-theme"
